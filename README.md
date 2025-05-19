@@ -1,4 +1,4 @@
-<h1 align="center" id="title">CATS-online-anomaly-detection</h1>
+<h1 align="center" id="title">Morphing-attack-detection</h1>
 
 <p align="center"><img src="https://socialify.git.ci/SimArgentino/Morphing-attack-detection/image?custom_description=Empirical+evaluation+of+face+recognition+systems%27+vulnerability+to+morphing+attacks+generated+via+traditional+algorithms+and+GANs.&description=1&language=1&name=1&owner=1&theme=Light" alt="Morphing-attack-detection" width="640" height="320" /></p>
 
