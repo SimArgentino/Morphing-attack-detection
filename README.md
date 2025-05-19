@@ -1,21 +1,11 @@
 <h1 align="center" id="title">CATS-online-anomaly-detection</h1>
 
-<p align="center"><img src="https://socialify.git.ci/SimArgentino/CATS-online-anomaly-detection/image?description=1&amp;font=Bitter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Brick%20Wall&amp;tab=readme-ov-file%3Flanguage%3D1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/SimArgentino/Morphing-attack-detection?custom_description=Empirical%20evaluation%20of%20face%20recognition%20systems%27%20vulnerability%20to%20morphing%20attacks%20generated%20via%20traditional%20algorithms%20and%20GANs.&description=1&language=1&name=1&owner=1&theme=Light " alt="project-image"></p>
 
 <h2>📜 Project Description:</h2>
-
-The goal of this project is to create a notebook for anomaly detection and to simulate online detection using Kafka.
-
-The dataset used is the Controlled Anomalies Time Series (CATS) dataset. The notebook is designed to swap out the dataset to perform anomaly detection easily. The neural network used is an Autoencoder.
-
-For this project, 16 models were trained to evaluate the results in different scenarios by assessing the following characteristics:
-
-    Optimizer: Adam-RMSprop
-    Epochs: 30-60
-    Threshold selection percentile
-    Two different autoencoder models
-
-The results are viewable on Streamlit, where you can also upload a dataset and choose your model to perform anomaly detection. The interface allows you to select the model section for anomaly detection in real-time and visualize the results.
+ Morphing Attack is a technique used to generate a facial image that blends features from two different individuals. The resulting image can be authenticated as both people by facial recognition systems, potentially allowing identity fraud.
+This project was inspired by [this](https://arxiv.org/abs/2012.05344) paper by Venkatesh et al., which explores the vulnerability of face recognition systems to GAN-based morphs compared to traditional methods.
+We believe that morphing attacks represent a serious threat to the security and reliability of biometric systems, especially as generative models become more accessible and realistic. Our work aims to further investigate and validate these concerns through empirical evaluation.
 
 <h2>📊 Project Graph: </h2>
   
@@ -24,7 +14,7 @@ The results are viewable on Streamlit, where you can also upload a dataset and c
 
 
 <h2>🛠️ Installation Steps:</h2>
-<p>To view our results you can run the Streamlit app:</p>
+
 
 <p>1. Install requirements</p>
 
