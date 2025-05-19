@@ -34,17 +34,17 @@ To generate morphs, we used different tools depending on the approach. For both 
 
 The morphing methods used were:
 
-  - OpenCV
+  - OpenCV:
     Classic morphing using facial landmarks, Delaunay triangulation, and alpha blending.
     Implemented with OpenCV and aligned using preprocessing steps from the Bob pipeline.
 
-  - FaceMorpher
+  - FaceMorpher:
     A Python tool for smooth morph generation via landmark detection and image blending.
 
-  - StyleGAN2
+  - StyleGAN2:
     Used through the Bob pipeline to generate interpolated morphs in the latent space of StyleGAN2.
 
-  - MipGAN-II
+  - MipGAN-II:
     Identity-preserving GAN-based morphs using latent space optimization techniques.
     Integrated via the same Bob framework.
 
