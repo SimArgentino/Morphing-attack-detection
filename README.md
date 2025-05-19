@@ -72,3 +72,9 @@ Each model was evaluated at two thresholds: 0.15 and 0.20.
 - ArcFace and SFace were the most robust networks, rejecting nearly all morphs, including those generated with advanced GANs like StyleGAN2 and MipGAN-II.
 - GAN-based morphs (especially with MipGAN-II) were able to fool models more effectively than traditional methods when threshold increased, particularly in OpenFace and VGG-Face.
 - As expected, increasing the threshold from 0.15 to 0.20 led to a significant rise in false acceptances, particularly for OpenCV and FaceMorpher morphs.
+
+We include below donut charts and bar plots comparing the percentage of successful morphing attacks for each technique and model:
+
+![immagine](https://github.com/user-attachments/assets/54be50a6-9d64-4032-924f-bef5112484e2)
+![immagine](https://github.com/user-attachments/assets/6823539c-31c1-4fc4-aef4-7c7938812170)
+
