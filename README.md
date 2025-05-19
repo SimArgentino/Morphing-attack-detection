@@ -66,3 +66,5 @@ These examples serve as input to verify whether the models can correctly recogni
 - SFace
 
 Each model was evaluated at two thresholds: 0.15 and 0.20.
+
+📊 Evaluation Results
