@@ -17,7 +17,7 @@ We believe that morphing attacks represent a serious threat to the security and 
 
 <h2>🧰 Morph Generation Models </h2>
 
-To generate morphs, we used different tools depending on the approach. For both traditional and GAN-based morphing, we relied on the models and scripts provided in the official Bob ICASSP 2021 morphing paper implementation from the Idiap Research Institute.
+To generate morphs, we used different tools depending on the approach. For both traditional and GAN-based morphing, we relied on the models and scripts provided in the official Bob ICASSP 2021 morphing paper implementation from the Idiap Research Institute: https://gitlab.idiap.ch/bob/bob.paper.icassp2021_morph
 
 The morphing methods used were:
 
@@ -78,3 +78,12 @@ We include below donut charts and bar plots comparing the percentage of successf
 ![immagine](https://github.com/user-attachments/assets/451a3b1b-632d-4896-aa3b-c16c4a222f57)
 ![immagine](https://github.com/user-attachments/assets/6823539c-31c1-4fc4-aef4-7c7938812170)
 
+<h2> 📚 Inspiration </h2>
+
+This project was inspired by the research paper:
+
+    Can GAN Generated Morphs Threaten Face Recognition Systems Equally as Landmark Based Morphs?
+    S. Venkatesh, H. Zhang, R. Ramachandra, K. Raja, N. Damer, C. Busch – IWBF 2020
+    arXiv:2012.05344
+
+We extended and adapted the methodology proposed in this work, focusing on evaluating the effectiveness of both traditional and GAN-based morphing attacks against multiple pre-trained face recognition systems. The goal was to reproduce and validate their findings using different tools (e.g., Bob, Midjourney) and a custom-built evaluation set.
