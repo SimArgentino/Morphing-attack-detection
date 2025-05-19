@@ -15,19 +15,6 @@ We believe that morphing attacks represent a serious threat to the security and 
 - Assess the impact of AI-generated faces produced with Midjourney, which at the time of the project (2022) represented a state-of-the-art generative model for realistic human faces
 - Compare morphing success rates across multiple architectures and thresholds to identify strengths and weaknesses in current face recognition systems.
 
-<h2>🧠 Face Recognition Models</h2>
-
-<p>We tested the following popular pre-trained models:</p>
-
-- VGG-Face
-- OpenFace
-- FaceNet
-- FaceNet-512
-- ArcFace
-- SFace
-
-Each model was evaluated at two thresholds: 0.15 and 0.20.
-
 <h2>🧰 Morph Generation Models </h2>
 
 To generate morphs, we used different tools depending on the approach. For both traditional and GAN-based morphing, we relied on the models and scripts provided in the official Bob ICASSP 2021 morphing paper implementation from the Idiap Research Institute.
@@ -52,11 +39,33 @@ All morphs were generated using the reproducible pipeline from the Bob repositor
 
 Note: Since the original Bob codebase is not natively compatible with Google Colab, where our experiments were conducted, custom modifications were necessary to ensure correct execution (e.g. environment setup, path adjustments, and GPU compatibility). These adjustments are documented in Morphing-attack-detection/morphing/face_morpher.ipynb.
 
+<h2>🧠 Face Recognition Models</h2>
+
+<p>We tested the following popular pre-trained models:</p>
+
+- VGG-Face
+- OpenFace
+- FaceNet
+- FaceNet-512
+- ArcFace
+- SFace
+
+Each model was evaluated at two thresholds: 0.15 and 0.20.
+
+<h2>🖼️ Dataset and Examples</h2>
+
+The evaluation dataset was entirely constructed for the purposes of this project and includes:
+
+- Portrait photos of students from the Computer Engineering Master’s program at the University of Naples Federico II (ESM 2023)
+- Selected celebrity images
+- High-quality synthetic images generated via Midjourney, which was a state-of-the-art generative model at the time of the project (2023)
+
+Example morphs:
+
+![ProjectGraph](
 
 
-
-
-
+)
 
 
 
