@@ -20,7 +20,18 @@ We believe that morphing attacks represent a serious threat to the security and 
 - Compare morphing success rates across multiple architectures and thresholds to identify strengths and weaknesses in current face recognition systems.
 
 
+<h2>🧠 Face Recognition Models</h2>
 
+<p>We tested the following popular pre-trained models:</p>
+
+- VGG-Face
+- OpenFace
+- FaceNet
+- FaceNet-512
+- ArcFace
+- SFace
+
+Each model was evaluated at two thresholds: 0.15 and 0.20.
 
 <h2>📊 Project Graph: </h2>
   
