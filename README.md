@@ -42,7 +42,6 @@ Note: Since the original Bob codebase is not natively compatible with Google Col
 
 <h2>🖼️ Dataset and Examples</h2>
 
-🖼️ Test Images and Examples
 ![Immagine WhatsApp 2025-05-19 ore 13 15 36_a861f31e](https://github.com/user-attachments/assets/34c77f6f-cf8c-4dfa-83eb-b029b8234ffb)
 
 The project uses a custom collection of test images designed to evaluate the behavior of several pre-trained face recognition models. This set includes:
