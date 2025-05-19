@@ -62,10 +62,7 @@ The evaluation dataset was entirely constructed for the purposes of this project
 
 Example morphs:
 
-![ProjectGraph](
-
-
-)
+![ProjectGraph](![Immagine WhatsApp 2025-05-19 ore 13 15 36_a861f31e](https://github.com/user-attachments/assets/34c77f6f-cf8c-4dfa-83eb-b029b8234ffb))
 
 
 
@@ -96,6 +93,7 @@ Example morphs:
 
 
 
+![Immagine WhatsApp 2025-05-19 ore 13 15 36_a861f31e](https://github.com/user-attachments/assets/1180d6c0-03a8-42f4-a61e-7fe3a71acdb6)
 
 
 
