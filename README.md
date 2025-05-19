@@ -42,12 +42,15 @@ Note: Since the original Bob codebase is not natively compatible with Google Col
 
 <h2>🖼️ Dataset and Examples</h2>
 
-The evaluation dataset was entirely constructed for the purposes of this project and includes:
+🖼️ Test Images and Examples
 
-- Portrait photos of students from the Computer Engineering Master’s program at the University of Naples Federico II (ESM 2023)
-- Selected celebrity images
-- High-quality synthetic images generated via Midjourney, which was a state-of-the-art generative model at the time of the project (2023)
+The project uses a custom collection of test images designed to evaluate the behavior of several pre-trained face recognition models. This set includes:
 
+- Photos of real students from the Computer Engineering Master's program at University of Naples Federico II
+- Images of public celebrities
+- Synthetic faces generated with Midjourney
+- 
+These examples serve as input to verify whether the models can correctly recognize or be fooled by altered images.
 Example morphs:
 
 ![Immagine WhatsApp 2025-05-19 ore 13 15 36_a861f31e](https://github.com/user-attachments/assets/34c77f6f-cf8c-4dfa-83eb-b029b8234ffb)
