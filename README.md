@@ -9,6 +9,21 @@ Morphing Attack is a technique used to generate a facial image that blends featu
 
 We believe that morphing attacks represent a serious threat to the security and reliability of biometric systems, especially as generative models become more accessible and realistic. Our work aims to further investigate and validate these concerns through empirical evaluation.
 
+
+
+
+<h2>🧪 Project Goals</h2>
+Our main objectives include:
+
+    Generating morphs using both traditional landmark-based and advanced GAN-based methods.
+
+    Evaluating how different pre-trained face recognition networks respond to these attacks.
+
+    Assessing the impact of AI-generated faces (via Midjourney) on recognition models.
+
+
+
+
 <h2>📊 Project Graph: </h2>
   
   ![ProjectGraph](https://github.com/SimArgentino/CATS-online-anomaly-detection/assets/93777986/617f1036-a83a-4aff-9444-5c033e9b20ea)
