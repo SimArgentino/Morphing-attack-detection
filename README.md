@@ -68,12 +68,15 @@ Each model was evaluated at two thresholds: 0.15 and 0.20.
 
 <h2>📊 Evaluation Results</h2>
 
+We evaluated how different pre-trained face recognition models respond to morphing attacks generated using four techniques: OpenCV, FaceMorpher, StyleGAN2, and MipGAN-II, tested at thresholds 0.15 and 0.20.
+
 - OpenFace consistently showed the highest vulnerability across all morphing methods, especially at threshold 0.20.
 - ArcFace and SFace were the most robust networks, rejecting nearly all morphs, including those generated with advanced GANs like StyleGAN2 and MipGAN-II.
 - GAN-based morphs (especially with MipGAN-II) were able to fool models more effectively than traditional methods when threshold increased, particularly in OpenFace and VGG-Face.
 - As expected, increasing the threshold from 0.15 to 0.20 led to a significant rise in false acceptances, particularly for OpenCV and FaceMorpher morphs.
 
-We include below donut charts and bar plots comparing the percentage of successful morphing attacks for each technique and model:
+Below we report a summary of the results using bar plots that highlight the most relevant trends.
+For detailed visualizations (donut charts, comparison matrices, and per-model breakdowns), please refer to the Project Presentation.
 
 ![immagine](https://github.com/user-attachments/assets/451a3b1b-632d-4896-aa3b-c16c4a222f57)
 ![immagine](https://github.com/user-attachments/assets/6823539c-31c1-4fc4-aef4-7c7938812170)
