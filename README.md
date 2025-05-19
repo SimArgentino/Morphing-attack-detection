@@ -39,18 +39,6 @@ All morphs were generated using the reproducible pipeline from the Bob repositor
 
 Note: Since the original Bob codebase is not natively compatible with Google Colab, where our experiments were conducted, custom modifications were necessary to ensure correct execution (e.g. environment setup, path adjustments, and GPU compatibility). These adjustments are documented in Morphing-attack-detection/morphing/face_morpher.ipynb.
 
-<h2>🧠 Face Recognition Models</h2>
-
-<p>We tested the following popular pre-trained models:</p>
-
-- VGG-Face
-- OpenFace
-- FaceNet
-- FaceNet-512
-- ArcFace
-- SFace
-
-Each model was evaluated at two thresholds: 0.15 and 0.20.
 
 <h2>🖼️ Dataset and Examples</h2>
 
@@ -63,3 +51,17 @@ The evaluation dataset was entirely constructed for the purposes of this project
 Example morphs:
 
 ![Immagine WhatsApp 2025-05-19 ore 13 15 36_a861f31e](https://github.com/user-attachments/assets/34c77f6f-cf8c-4dfa-83eb-b029b8234ffb)
+
+
+<h2>🧠 Face Recognition Models</h2>
+
+<p>We tested the following popular pre-trained models:</p>
+
+- VGG-Face
+- OpenFace
+- FaceNet
+- FaceNet-512
+- ArcFace
+- SFace
+
+Each model was evaluated at two thresholds: 0.15 and 0.20.
