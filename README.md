@@ -3,8 +3,8 @@
 <p align="center"><img src="https://socialify.git.ci/SimArgentino/Morphing-attack-detection?custom_description=Empirical%20evaluation%20of%20face%20recognition%20systems%27%20vulnerability%20to%20morphing%20attacks%20generated%20via%20traditional%20algorithms%20and%20GANs.&description=1&language=1&name=1&owner=1&theme=Light " alt="project-image"></p>
 
 <h2>📜 Project Description:</h2>
- Morphing Attack is a technique used to generate a facial image that blends features from two different individuals. The resulting image can be authenticated as both people by facial recognition systems, potentially allowing identity fraud.
-This project was inspired by [this](https://arxiv.org/abs/2012.05344) paper by Venkatesh et al., which explores the vulnerability of face recognition systems to GAN-based morphs compared to traditional methods.
+Morphing Attack is a technique used to generate a facial image that blends features from two different individuals. The resulting image can be authenticated as both people by facial recognition systems, potentially allowing identity fraud.
+This project was inspired by [this](#https://arxiv.org/abs/2012.05344) paper by Venkatesh et al., which explores the vulnerability of face recognition systems to GAN-based morphs compared to traditional methods.
 We believe that morphing attacks represent a serious threat to the security and reliability of biometric systems, especially as generative models become more accessible and realistic. Our work aims to further investigate and validate these concerns through empirical evaluation.
 
 <h2>📊 Project Graph: </h2>
