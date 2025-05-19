@@ -48,10 +48,9 @@ The morphing methods used were:
     Identity-preserving GAN-based morphs using latent space optimization techniques.
     Integrated via the same Bob framework.
 
-    All morphs were generated using the reproducible pipeline from the Bob repository linked above.
+All morphs were generated using the reproducible pipeline from the Bob repository linked above.
 
-    Note: Since the original Bob codebase is not natively compatible with Google Colab, where our experiments were conducted, custom modifications were necessary to ensure correct execution (e.g. environment setup, path adjustments, and GPU compatibility).
-    These adjustments are documented in Morphing-attack-detection/morphing/face_morpher.ipynb.
+Note: Since the original Bob codebase is not natively compatible with Google Colab, where our experiments were conducted, custom modifications were necessary to ensure correct execution (e.g. environment setup, path adjustments, and GPU compatibility). These adjustments are documented in Morphing-attack-detection/morphing/face_morpher.ipynb.
 
 
 
