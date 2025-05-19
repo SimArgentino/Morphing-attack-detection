@@ -75,6 +75,6 @@ Each model was evaluated at two thresholds: 0.15 and 0.20.
 
 We include below donut charts and bar plots comparing the percentage of successful morphing attacks for each technique and model:
 
-![immagine](https://github.com/user-attachments/assets/54be50a6-9d64-4032-924f-bef5112484e2)
+![immagine](https://github.com/user-attachments/assets/451a3b1b-632d-4896-aa3b-c16c4a222f57)
 ![immagine](https://github.com/user-attachments/assets/6823539c-31c1-4fc4-aef4-7c7938812170)
 
