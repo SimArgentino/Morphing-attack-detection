@@ -1,6 +1,6 @@
 <h1 align="center" id="title">CATS-online-anomaly-detection</h1>
 
-<p align="center"><img src="https://socialify.git.ci/SimArgentino/Morphing-attack-detection?custom_description=Empirical%20evaluation%20of%20face%20recognition%20systems%27%20vulnerability%20to%20morphing%20attacks%20generated%20via%20traditional%20algorithms%20and%20GANs.&description=1&language=1&name=1&owner=1&theme=Light " alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/SimArgentino/Morphing-attack-detection/image?custom_description=Empirical+evaluation+of+face+recognition+systems%27+vulnerability+to+morphing+attacks+generated+via+traditional+algorithms+and+GANs.&description=1&language=1&name=1&owner=1&theme=Light" alt="Morphing-attack-detection" width="640" height="320" /></p>
 
 <h2>📜 Project Description:</h2>
 Morphing Attack is a technique used to generate a facial image that blends features from two different individuals. The resulting image can be authenticated as both people by facial recognition systems, potentially allowing identity fraud.
