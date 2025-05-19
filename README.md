@@ -12,7 +12,7 @@ We believe that morphing attacks represent a serious threat to the security and 
 
 - Generating morphs using both traditional landmark-based and advanced GAN-based methods.
 - Evaluating how different pre-trained face recognition networks respond to these attacks.
-- Assess the impact of AI-generated faces produced with Midjourney, which at the time of the project (2022) represented a state-of-the-art generative model for realistic human faces
+- Assess the impact of AI-generated faces produced with Midjourney, which at the time of the project (2022) represented a state-of-the-art generative model for realistic human faces.
 - Compare morphing success rates across multiple architectures and thresholds to identify strengths and weaknesses in current face recognition systems.
 
 <h2>🧰 Morph Generation Models </h2>
